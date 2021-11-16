@@ -17,7 +17,7 @@ class SnakeGame {
         this.options = options;
         for(let y = 0; y < HEIGHT; y++) {
             for(let x = 0; x < WIDTH; x++) {
-                gameBoard[y * WIDTH + x] = ':grey_square:';
+                gameBoard[y * WIDTH + x] = '<:grey_square:910206818297479208>';
             }
         }
     }
